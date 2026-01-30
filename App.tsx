@@ -735,7 +735,7 @@ const App: React.FC = () => {
              <FadeIn delay={150}>
                <div className="group">
                   <h3 className="font-serif text-2xl text-gray-900 mb-1">Matilde Santini</h3>
-                  <div className="font-mono text-[10px] uppercase tracking-widest text-blue-600 mb-3">Design & Brand</div>
+                  <div className="font-mono text-[10px] uppercase tracking-widest text-blue-600 mb-3"></div>
                   <p className="font-sans text-sm text-gray-500 leading-relaxed">
                     Design NABA Student.
                   </p>
