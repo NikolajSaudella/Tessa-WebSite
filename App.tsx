@@ -724,9 +724,9 @@ const App: React.FC = () => {
              <FadeIn delay={0}>
                <div className="group">
                   <h3 className="font-serif text-2xl text-gray-900 mb-1">Nikolaj Saudella</h3>
-                  <div className="font-mono text-[10px] uppercase tracking-widest text-blue-600 mb-3">Product & Strategy</div>
+                  <div className="font-mono text-[10px] uppercase tracking-widest text-blue-600 mb-3"></div>
                   <p className="font-sans text-sm text-gray-500 leading-relaxed">
-                     Vision, Roadmap, and Business Development.<br/> Computer Science for Management Student.<br/> Worked with Mkers and Dsyre.
+                    Computer Science for Management Student.<br/> Worked with Mkers and Dsyre.
                   </p>
                </div>
              </FadeIn>
@@ -737,7 +737,7 @@ const App: React.FC = () => {
                   <h3 className="font-serif text-2xl text-gray-900 mb-1">Matilde Santini</h3>
                   <div className="font-mono text-[10px] uppercase tracking-widest text-blue-600 mb-3">Design & Brand</div>
                   <p className="font-sans text-sm text-gray-500 leading-relaxed">
-                     UX/UI Design, Visual Identity, and User Research.<br/> Design NABA Student.
+                    Design NABA Student.
                   </p>
                </div>
              </FadeIn>
@@ -746,9 +746,9 @@ const App: React.FC = () => {
              <FadeIn delay={300}>
                <div className="group">
                   <h3 className="font-serif text-2xl text-gray-900 mb-1">Giosuè Laurenzi</h3>
-                  <div className="font-mono text-[10px] uppercase tracking-widest text-blue-600 mb-3">Tech & Ops</div>
+                  <div className="font-mono text-[10px] uppercase tracking-widest text-blue-600 mb-3"></div>
                   <p className="font-sans text-sm text-gray-500 leading-relaxed">
-                     Tech Architecture, Development, and Operations.<br/> Computer Science for Management Student.
+                     Computer Science for Management Student.
                   </p>
                </div>
              </FadeIn>
